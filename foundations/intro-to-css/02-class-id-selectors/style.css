@@ -1,0 +1,19 @@
+.po   {
+        background-color: #ee82ee;
+        font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+.three  {
+        font-size: 24px;
+}
+
+#two {
+        color: #0000ff;
+        font-size: 36px;
+}
+
+#four {
+        background-color:#3cb371;
+        font-size: 24px;
+        font-weight: bold;
+}
